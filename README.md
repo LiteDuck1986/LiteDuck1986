@@ -1,12 +1,16 @@
-![Banner](LiteDuckWare.png)
-
-<h1 align="center">LiteDuck1986</h1>
-
 <p align="center">
-  <img src="Duck.png" width="120"/>
+  <img src="/res/LiteDuck1986.gif" alt="Banner" width="60%" />
 </p>
 
-<h3 align="center">Game Developer | Programmer | Game Designer</h3>
+<h1 align="center">WELCOME TO MY PROFILE :)</h1>
+
+<p align="center">
+  <img src="/res/duck.png" width="120"/>
+</p>
+
+<h2 align="center">LiteDuck1986</h2>
+
+<h3 align="center">| Game Developer | Programmer | Game Designer |</h3>
 
 <p align="center">
   🇱🇻
