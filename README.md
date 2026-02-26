@@ -2,7 +2,7 @@
   <img src="/res/LiteDuck1986.gif" alt="Banner" width="60%" />
 </p>
 
-<h1 align="center">WELCOME TO MY PROFILE :)</h1>
+<h1 align="center">WELCOME TO MY CRIB</h1>
 
 <p align="center">
   <img src="/res/duck.png" width="120"/>
@@ -10,7 +10,7 @@
 
 <h2 align="center">LiteDuck1986</h2>
 
-<h3 align="center">| Game Developer | Programmer | Game Designer |</h3>
+<h3 align="center">Game Developer | Programmer | Game Designer</h3>
 
 <p align="center">
   🇱🇻
@@ -19,14 +19,14 @@
 ---
 
 ## 👨‍🍳 About me
-- 🎮 Indie game dev focused on **Game Development on Unity**
-- 🧠 Loves **Design and UI**
-- 🧩 Enjoys making small projects
-- 🦆 I Love Ducks.
+- Indie game dev focused on **Game Development on Unity**
+- Loves **Design and UI**
+- Enjoys making small projects
+- I Love Ducks 🦆.
 
 ---
 
-## 🎮 SKILLS 🎮
+## SKILLS
 
 ### ⚙️ Engines
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
