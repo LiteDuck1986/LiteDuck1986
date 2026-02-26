@@ -58,4 +58,4 @@
 ##  Featured Projects
 🧷 *Check out my pinned repositories below*
 
-- [PZ Character Creator Repo](https://github.com/TavsLietotajvards/TavsProjekts)
+- [PZ Character Creator Repo](https://github.com/LiteDuck1986/Smirnovs_UnityUI)
