@@ -46,6 +46,11 @@
 
 ---
 
+## Top Commiter in Latvia
+[![committers.top badge](https://user-badge.committers.top/latvia/LiteDuck1986.svg)](https://user-badge.committers.top/latvia/LiteDuck1986)
+
+---
+
 ## Projects (Work in progress)
 
 <p align="center">
