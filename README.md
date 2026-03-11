@@ -3,7 +3,7 @@
 <img src="/res/duck.png" width="180"/>
 <img src="/res/LiteDuck1986.gif" alt="Banner" width="70%" />
 
-## Game Developer | Programmer | Game Designer
+## Game Developer | Programmer | Software Dev
 
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liteduck1986.github.io/LiteDuckWorkspace/)
 
