@@ -61,22 +61,28 @@
 
 ###
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=liteduck1986&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liteduck1986&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Overall Stats" />
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>📊 GitHub Stats (click to expand)</b></summary>
+  <br>
 
-<p align="center">
-  <a href="https://github.com/LiteDuck1986/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiteDuck1986&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+  <table align="center" border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=liteduck1986&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liteduck1986&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Overall Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <a href="https://github.com/LiteDuck1986/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiteDuck1986&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
+
+</details>
 
 ---
 
