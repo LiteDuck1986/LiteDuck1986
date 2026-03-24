@@ -1,13 +1,18 @@
 <div align="center">
 
 <img src="/res/duck.png" width="180"/>
-<img src="/res/LiteDuck1986.gif" alt="Banner" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=106&section=header&text=LiteDuck1986&fontSize=50" width="100%"/>
 
-## Game Developer | Programmer | Software Dev
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Indie%20Game%20Developer%20/%20Programmer%20&fontColor=22FFD1&fontSize=30&animation=fadeIn" />
+</h2>
 
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liteduck1986.github.io/LiteDuckWorkspace/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LiteDuck1986&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 <div align="left">
 
@@ -21,28 +26,43 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<br>
 
-## Skills & Speciality
+<details>
+<summary><b>My Skills & Speciality (click to expand)</b></summary>
+<br>
 
-### ⚙️ Engines
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-### 🧠 Languages
-![C#](https://img.shields.io/badge/C%23-9b4dff?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-00FFD1?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ff5555?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ffb347?style=for-the-badge&logo=mysql&logoColor=black)
+### Engines  
+<img src="https://skillicons.dev/icons?i=unity,unreal" />
 
-### 🚀 Specialties
-![Gameplay Design](https://img.shields.io/badge/Gameplay_Design-00ffd1?style=for-the-badge)
-![Project Structure](https://img.shields.io/badge/Project_Structure-ff6ec7?style=for-the-badge)
-![UI & UX](https://img.shields.io/badge/UI_%26_UX-7cff00?style=for-the-badge)
+</td>
 
----
+<td align="center" width="33%">
+
+### Languages  
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,python,java,mysql" />
+
+</td>
+
+<td align="center" width="33%">
+
+### Specialties  
+<img src="https://img.shields.io/badge/Gameplay-00ffd1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-ff6ec7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI/UX-7cff00?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## 📊 GitHub statistics
 
@@ -84,7 +104,7 @@
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## Featured Projects
 *Work in Progress*
