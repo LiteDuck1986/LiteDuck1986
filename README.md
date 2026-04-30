@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Indie%20Game%20Developer%20/%20Programmer%20&fontColor=22FFD1&fontSize=30&animation=fadeIn" />
 </h2>
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liteduck1986.github.io/LiteDuckWorkspace/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liteduck.com)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LiteDuck1986&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
