@@ -1,30 +1,15 @@
 <div align="center">
 
 <img src="/res/duck.png" width="180"/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=106&section=header&text=LiteDuck1986&fontSize=50" width="100%"/>
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Indie%20Game%20Developer%20/%20Programmer%20&fontColor=22FFD1&fontSize=30&animation=fadeIn" />
+  LiteDuck1986
 </h2>
 
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liteduck.com)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LiteDuck1986&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
-
-<div align="left">
-
-## 👨‍🍳 About Me 👨‍🍳
-> *An indie developer with a passion for game development.* 🦆
-
-*  **Main focus:** High-fidelity Game Development in **Unity**.
-*  **Looking for a team** I'm currently looking for a collaborative game development with **Intermediate** programming skills, **UI Designer** and more. If you are interested, then contact me here: **emils2007smirnovs@gmail.com**.
-*  **Project Style:** Building scalable, small-to-mid sized indie experiences.
-*  **Fun Fact:** I really, *really* like ducks 🦆.
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 <br>
