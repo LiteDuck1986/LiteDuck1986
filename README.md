@@ -8,21 +8,28 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 <br>
+</div>
 
-<h2 align="center">
-  About me!
-</h2>
 
-<p align="left">Hello, my real name is Emīls Smirnovs, I'm a third course Programming technician at Liepaja State Technical School.</p>
-<p align="left">I like to work on small to medium sized indie projects mostly in Game Development, I have a few unfinished game projects made in Unity, but I keep those private as of now.</p>
-<p align="left">I shine the most at Game Design, Simple animations and Quality Assurance.</p>
-<p align="left">I like to test, find bugs and make chaos in my own projects.</p>
-<p align="left">I mostly work alone, but I have worked in a team before (ONLINE). I'm always open for collaborative projects!</p>
-<p align="left">I am well oriented in Unity Game Engine and GitHub and know all the basics.</p>
+## 👋 Hello, My name is Emīls Smirnovs!
 
-<p>^More about me coming soon..</p>
+*3rd-Year Programming Technician Student @ Liepaja State Technical School | Indie Game Dev | Learning more about QA*
+
+Welcome to my GitHub! I'm a programmer and indie game developer who loves making small-to-medium projects and learn something new.
+
+### What I Do
+* **Indie Game Dev:** I primarily build in the **Unity Game Engine**. I currently have couple unfinished projects that I used for learning and experimenting, but I'm constantly learning and building.
+* **My Strengths:** I shine the most in **Game Design**, making **simple animations**, and **Quality Assurance (QA) or Testing and finding bugs**.
+* **Other skills:** I can make simple websites, host them and integrate data bases or API.
+
+### 🤝 Let's Collaborate
+While I'm used to working alone, I have experience working in online team before and am **always open to collaborative projects!** If you need a game designer, a dedicated bug hunter, or a Unity dev, feel free to reach out.
+
+### Tools
+* **Workflow:** Git & GitHub
 
 <br>
+<div align="center">
 
 <details>
 <summary><b>My Skills & Programming languages (click to expand)</b></summary>
