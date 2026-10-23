@@ -11,19 +11,19 @@
 </div>
 
 
-## 👋 Hello, My name is Emīls Smirnovs!
+## 👋 Hello, I'm LiteDuck!
 
-*3rd-Year Programming Technician Student @ Liepaja State Technical School | Indie Game Dev | Learning more about QA*
+*3rd-Year Programming Technician Student @ Liepaja State Technical School*
 
 Welcome to my GitHub! I'm a programmer and indie game developer who loves making small-to-medium projects and learn something new.
 
 ### What I Do
-* **Indie Game Dev:** I primarily build in the **Unity Game Engine**. I currently have couple unfinished projects that I used for learning and experimenting, but I'm constantly learning and building.
-* **My Strengths:** I shine the most in **Game Design**, making **simple animations**, and **Quality Assurance (QA) or Testing and finding bugs**.
+* **Indie Game Dev:** I primarily build in the **Unity Game Engine**. I currently have couple unfinished projects that I used for learning and experimenting, but I'm constantly learning something new.
+* **My Strengths:** I shine the most in **Game Design**, making **simple animations**, and **Quality Assurance (QA) or testing.**.
 * **Other skills:** I can make simple websites, host them and integrate data bases or API.
 
 ### 🤝 Let's Collaborate
-While I'm used to working alone, I have experience working in online team before and am **always open to collaborative projects!** If you need a game designer, a dedicated bug hunter, or a Unity dev, feel free to reach out.
+While I'm used to working alone, I have experience working in online team before and am **always open to collaborative projects!** If you need someone who knows what he does, a dedicated bug hunter, or a Unity dev, feel free to reach out.
 
 ### Tools
 * **Workflow:** Git & GitHub
