@@ -17,6 +17,8 @@
 
 Welcome to my GitHub! I'm a programmer and indie game developer who loves making small-to-medium projects and learn something new.
 
+Check out my YouTube channel where I *rarely* post my devlogs for my projects. [![YouTube](https://shields.io)](https://www.youtube.com/@LiteDuck1986)
+
 ### What I Do
 * **Indie Game Dev:** I primarily build in the **Unity Game Engine**. I currently have couple unfinished projects that I used for learning and experimenting, but I'm constantly learning something new.
 * **My Strengths:** I shine the most in **Game Design**, making **simple animations**, and **Quality Assurance (QA) or testing.**.
