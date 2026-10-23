@@ -5,6 +5,11 @@
 <h2 align="center">
   LiteDuck1986
 </h2>
+<p>
+  <a href="https://www.youtube.com/@LiteDuck1986">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Channel"/>
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 <br>
@@ -16,8 +21,6 @@
 *3rd-Year Programming Technician Student @ Liepaja State Technical School*
 
 Welcome to my GitHub! I'm a programmer and indie game developer who loves making small-to-medium projects and learn something new.
-
-Check out my YouTube channel where I *rarely* post my devlogs for my projects. [![YouTube](https://shields.io)](https://www.youtube.com/@LiteDuck1986)
 
 ### What I Do
 * **Indie Game Dev:** I primarily build in the **Unity Game Engine**. I currently have couple unfinished projects that I used for learning and experimenting, but I'm constantly learning something new.
