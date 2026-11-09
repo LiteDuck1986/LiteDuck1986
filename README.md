@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/res/duck.png" width="180"/>
+<img src="/res/file_0000000056a8820aa8bb5371eb0d41a4.png" width="180"/>
 
 <h2 align="center">
   LiteDuck1986
@@ -21,11 +21,6 @@
 *3rd-Year Programming Technician Student @ Liepaja State Technical School*
 
 Welcome to my GitHub! I'm a programmer and indie game developer who loves making small-to-medium projects and learn something new.
-
-### What I Do
-* **Indie Game Dev:** I primarily build in the **Unity Game Engine**. I currently have couple unfinished projects that I used for learning and experimenting, but I'm constantly learning something new.
-* **My Strengths:** I shine the most in **Game Design**, making **simple animations**, and **Quality Assurance (QA) or testing.**.
-* **Other skills:** I can make simple websites, host them and integrate data bases or API.
 
 ### 🤝 Let's Collaborate
 While I'm used to working alone, I have experience working in online team before and am **always open to collaborative projects!** If you need someone who knows what he does, a dedicated bug hunter, or a Unity dev, feel free to reach out.
