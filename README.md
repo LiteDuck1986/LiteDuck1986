@@ -38,7 +38,7 @@ LiteDuck1986
 
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,python,java,php,linux" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,python,java,php,linux,blender,figma,github,git" />
 
 </details>
 
