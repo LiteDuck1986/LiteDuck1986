@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Language Switcher Buttons -->
 <p>
   <a href="https://github.com/LiteDuck1986/LiteDuck1986/blob/master/en/README.md">
     <img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="English">
@@ -34,11 +33,11 @@ LiteDuck1986
 *Студент 3-го курса по специальности «Техник-программист» @ Лиепайский государственный техникум*
 
 <h2>Обо мне!</h2>
-
 > Я независимый инди-разработчик игр, в основном работаю на Unity.
 <br>
 > Также занимаюсь frontend и backend веб-разработкой.
 
+<br>
 <br>
 
 <div align="left">
@@ -48,9 +47,7 @@ LiteDuck1986
 <br>
 
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
-<br>
 <img src="https://skillicons.dev/icons?i=mysql" />
-<br>
 <img src="https://skillicons.dev/icons?i=cs,cpp,js,python,java,php,linux,blender,figma,github,git" />
 
 </details>
