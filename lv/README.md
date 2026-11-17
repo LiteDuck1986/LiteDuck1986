@@ -1,13 +1,13 @@
 <div align="center">
 
 <p>
-  <a href="https://github.com/LiteDuck1986/LiteDuck1986/blob/master/en/README.md">
+  <a href="https://raw.githubusercontent.com/LiteDuck1986/LiteDuck1986/master/en/README.md">
     <img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="English">
   </a>
-  <a href="https://github.com/LiteDuck1986/LiteDuck1986/blob/master/ru/README.md">
+  <a href="https://raw.githubusercontent.com/LiteDuck1986/LiteDuck1986/master/ru/README.md">
     <img src="https://img.shields.io/badge/Язык-Русский-green?style=flat-square" alt="Russian">
   </a>
-  <a href="https://github.com/LiteDuck1986/LiteDuck1986/blob/master/lv/README.md">
+  <a href="https://raw.githubusercontent.com/LiteDuck1986/LiteDuck1986/master/lv/README.md">
     <img src="https://img.shields.io/badge/Valoda-Latviešu-red?style=flat-square" alt="Latvian">
   </a>
 </p>
